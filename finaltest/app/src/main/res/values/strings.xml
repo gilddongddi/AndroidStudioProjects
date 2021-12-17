@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">finaltest</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_maps3">MapsActivity3</string>
+    <string name="title_activity_maps4">MapsActivity4</string>
+    <string name="title_activity_maps5">MapsActivity5</string>
+    <string name="title_activity_maps6">MapsActivity6</string>
+    <string name="title_activity_maps7">MapsActivity7</string>
+</resources>
